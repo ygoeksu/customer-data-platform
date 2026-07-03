@@ -1,0 +1,3 @@
+I collect the links to new concepts here, to then add knowledge docs, as in docs
+- Pytest, vs other test frameworks
+- how to set up environment best as possible, venv, uv, ...
